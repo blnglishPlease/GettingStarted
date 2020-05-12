@@ -1,7 +1,9 @@
-GettingStarted
+#GettingStarted
 
-Here are will be refs ro my microgames:
+Here are will be refs to study resources:
 
-[GitHub Learning Lab](https://lab.github.com)
+<hr>
 
-[Unity Learn](https://learn.unity.com)
+- [GitHub Learning Lab](https://lab.github.com)
+
+- [Unity Learn](https://learn.unity.com)
