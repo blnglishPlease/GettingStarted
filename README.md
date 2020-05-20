@@ -1,4 +1,4 @@
-#GettingStarted
+# GettingStarted
 
 Here are will be refs to study resources:
 
