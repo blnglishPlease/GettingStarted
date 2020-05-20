@@ -14,4 +14,4 @@ Here are will be refs to study resources:
 
 - [Tips about fandom](https://coremission.net/gamedev/kak-sobrat-igrokov-vokrug-igry/)
 
--[IndieVideoGames](http://www.indievideogames.com/pages/index.php)
+- [IndieVideoGames](http://www.indievideogames.com/pages/index.php)
